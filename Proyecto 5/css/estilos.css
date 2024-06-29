@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    }
+    
+    header{
+        background-color: coral;
+        height: 200px;
+        
+    }
+    
+    main{
+        background-color: blanchedalmond;
+        height: 700px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    
+    
+    }
+    
+    footer{
+    
+        background-color: aqua;
+        height: 200px;
+    }
+    
+    #fiesta{
+        position: relative;
+        left: 80px;
+        top: 70px;
+    
+    }
+    
+    #invitacion{
+    
+      font-family: "Playwrite US Trad", cursive;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      position: relative;
+      left: 670px;
+    
+    }
+    
+    #redes{
+    
+        font-family: "Playwrite US Trad", cursive;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        position: relative;
+        left: 850px;
+      
+    }
+    
+    .icono{
+    
+       
+        position: relative;
+        top: 50px;
+        left: 200px;
+    
+    
+    }
+    
+   
+   
+    #contenedor{
+    height: 600px;
+    width: 400px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    
+        
+    }
+
+   
+
+    #xv{
+        width: 400px;
+        height:200px;
+        display: flex;
+        align-items: left;
+        position: relative;
+        bottom: 15px;
+    }
+
+    
+    
+    #xv2{
+    
+        width: 100px;
+        height:100px;
+        border-radius: 50%;
+
+        border: 8px  blue solid; 
+        position: relative;
+        bottom: 100px;
+        left: 0px;
+    
+    }
+
+    #caja3{
+    
+        width: 200px;
+        height: 120px;
+        background-color: darkgreen;
+        position: relative;
+        bottom:90px ;
+        left: 0px;
+        text-align: center;
+    }
+    
+    #boton {
+
+    position: relative;
+    bottom: 70px;
+    left:0px;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: red;
+    width: 200px;
+    height:40px;
+    text-align: center;
+    
+    }
+    
